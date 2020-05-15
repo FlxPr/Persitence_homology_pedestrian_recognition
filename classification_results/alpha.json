@@ -1,0 +1,1 @@
+{"experiment_params": {"xmin": 0, "xmax": 0.8, "nbnodes": 100, "n_landscapes": 5, "max_edge_length": 2, "filtration": "alpha"}, "persistence_computing_time_minutes": 0.7773441513379414, "l0": 0.8525, "l1": 0.9941666666666666, "l0 + l1": 0.9816666666666665, "rforest_hyperparameters": {"n_estimators": 150, "max_features": "auto"}}
